@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.exe.config
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.exe
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.pdb
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.exe
+C:\Users\Administrator\Desktop\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.pdb
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.exe.config
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.exe
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\bin\Debug\2180607804_ngothainguyen_Lab01_03.pdb
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.exe
+C:\Users\Admin\source\repos\2180607804_ngothainguyen_Lab01_03\obj\Debug\2180607804_ngothainguyen_Lab01_03.pdb

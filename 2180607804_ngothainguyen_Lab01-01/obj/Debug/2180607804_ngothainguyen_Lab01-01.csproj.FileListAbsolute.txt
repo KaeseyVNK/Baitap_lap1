@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\bin\Debug\2180607804_ngothainguyen_Lab01-01.exe.config
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\bin\Debug\2180607804_ngothainguyen_Lab01-01.exe
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\bin\Debug\2180607804_ngothainguyen_Lab01-01.pdb
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\obj\Debug\2180607804_ngothainguyen_Lab01-01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\obj\Debug\2180607804_ngothainguyen_Lab01-01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\obj\Debug\2180607804_ngothainguyen_Lab01-01.exe
+C:\Users\Admin\Desktop\New folder\2180607804_ngothainguyen_Lab01-01\obj\Debug\2180607804_ngothainguyen_Lab01-01.pdb
