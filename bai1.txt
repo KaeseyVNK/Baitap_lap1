@@ -1,0 +1,50 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("===== chuong trinh doan so =====");
+        
+         Random random = new Random();
+         int targetNumber = random.Next(100,999);
+         Console.WriteLine("So can doan la: {0} ", targetNumber);
+         string targetString = targetNumber.ToString();
+         
+         int attemp = 1, Max_Guess = 7;
+         string guess, feedback = "";
+         while(feedback != "+++" && attemp <= Max_Guess )
+         {
+             Console.WriteLine("\nlan doan thu {0}: ", attemp );
+             guess = Console.ReadLine();
+             feedback = GetFeedBack(targetString, guess);
+             Console.WriteLine("Phan hoi tu may tinh: {0} ", feedback);
+             attemp++;
+         }
+         
+         Console.WriteLine(" nguoi choi da doan {0} lan. Tro choi ket thuc!", attemp-1);
+         if ( attemp > Max_Guess)
+            Console.WriteLine("Nguoi choi da thu cuoc. So can doan la: {0}", targetNumber);
+        else 
+            Console.WriteLine("Nguoi choi da thang cuoc!", attemp);
+            
+        Console.ReadLine();
+    }
+    
+    static string GetFeedBack( string target, string guess)
+    {
+        string feedback = "";
+        for ( int i =0;i<target.Length;i++)
+        {
+            if ( target[i] == guess[i])
+                feedback +="+";
+            else 
+                if ( target.Contains(guess[i].ToString()))
+                    feedback += "?";
+        }
+        return feedback;
+    }
+}
